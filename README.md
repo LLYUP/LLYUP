@@ -49,11 +49,12 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=LLYUP&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=LLYUP&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
+
+![](./metrics/people.followers.svg)
 <p align="center">
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LLYUP&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>

@@ -17,3 +17,6 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
